@@ -1,2 +1,2 @@
 # VLC
-Easy to make ventilator help in the mild cases of COVID-19
+Simple to make ventilator help in the instances of COVID-19.
